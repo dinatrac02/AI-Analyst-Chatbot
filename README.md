@@ -65,7 +65,7 @@ flowchart TD
 
 ## Slides
 
-[View the presentation (PDF)](slides/AI Analyst Chatbot Take-Home Assignment @ eGain.pdf)
+[View the presentation (PDF)](slides/AI_Analyst_Chatbot_Take-Home Assignment_@_eGain.pdf)
 
 ## Screenshots
 
