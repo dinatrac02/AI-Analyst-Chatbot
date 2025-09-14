@@ -63,10 +63,6 @@ flowchart TD
 - Multi-lingual language support
 - Web UI with chatbot widgets
 
-## Slides
-
-[View the presentation (PDF)](slides/AI_Analyst_Chatbot_Take-Home Assignment_@_eGain.pdf)
-
 ## Screenshots
 
 ### In Transit
