@@ -63,3 +63,14 @@ flowchart TD
 - Multi-lingual language support
 - Web UI with chatbot widgets
 
+## Screenshots
+
+### In Transit
+![In Transit](screenshots/in_transit.png)
+
+### Out for Delivery
+![Out for Delivery](screenshots/out_for_delivery.png)
+
+### Delivered
+![Delivered](screenshots/delivered.png)
+
