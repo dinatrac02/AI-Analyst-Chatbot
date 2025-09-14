@@ -34,7 +34,7 @@ python3 lost_package_bot.py
 3. **Mismatched identity**  
    - If email/ZIP don’t match the order, the bot explains and offers human escalation.
   
-## Flowchart (Mermaid)
+## Flowchart 
 ```mermaid
 flowchart TD
   A[Start] --> B[Ask Order ID]
