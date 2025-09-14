@@ -63,6 +63,10 @@ flowchart TD
 - Multi-lingual language support
 - Web UI with chatbot widgets
 
+## Slides
+
+[View the presentation (PDF)](slides/Lost_Package_Chatbot_Slides.pdf)
+
 ## Screenshots
 
 ### In Transit
