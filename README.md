@@ -65,7 +65,7 @@ flowchart TD
 
 ## Slides
 
-[View the presentation (PDF)](slides/Lost_Package_Chatbot_Slides.pdf)
+[View the presentation (PDF)](slides/AI Analyst Chatbot Take-Home Assignment @ eGain.pdf)
 
 ## Screenshots
 
