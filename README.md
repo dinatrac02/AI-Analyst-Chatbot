@@ -1,7 +1,9 @@
 # AI Analyst Lost Package Chatbot – CLI Prototype
 
 **Role/Assignment:** eGain AI Analyst Take-Home Assignment
+
 **Scenario:** Helping a customer track a lost package  
+
 **Author:** Dina Trac
 
 ## Overview
